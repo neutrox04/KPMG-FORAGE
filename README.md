@@ -1,7 +1,6 @@
 # KPMG-FORAGE
 Data Analytics Consulting Virtual Internship Participant
 KPMG Virtual Internship Program - Dashboard
-KPMG Logo
 
 This repository contains the dashboard created as part of the KPMG Virtual Internship Program. The dashboard provides insights and analysis based on the data provided by KPMG.
 
